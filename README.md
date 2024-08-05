@@ -5,6 +5,7 @@ This repository contains the python source code and requirements for the project
 
 ## Description
 <img align="right" src="./assets/Ms_Minutes.jpg" height=400>  
+
 - Miss minutes is an autonomous and standalone voice assistant. She is inspired from exactly what the name suggests, famous character from Loki.  
 
 - Ms Minutes can provide you any information like:
