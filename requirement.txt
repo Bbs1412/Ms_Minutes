@@ -1,0 +1,6 @@
+gtts
+numpy
+openai
+dotenv
+pyaudio
+SpeechRecognition
