@@ -6,16 +6,16 @@ This repository contains the python source code and requirements for the project
 ## Description
 <img align="right" src="./assets/Ms_Minutes.jpg" height=400>  
 
-- Miss minutes is an autonomous and standalone voice assistant. She is inspired from exactly what the name suggests, famous character from Loki.  
+- Miss minutes is an autonomous and standalone voice assistant, inspired by the famous character from Loki.  
 
-- Ms Minutes can provide you any information like:
+- Ms Minutes can:
   * Answer questions on a variety of topics
   * Provide weather updates
   * Perform arithmetic calculations
   * Provide definitions and explanations
   * Engage in casual conversations
   
-- Apart from interactions, Ms Minutes can automate you environment / home like:
+- Apart from interactions, Ms Minutes can automate your environment / home by:
   * Providing voice-activated control for various home automation scenarios
   * Controlling lights and other smart appliances
 
@@ -35,10 +35,10 @@ This repository contains the python source code and requirements for the project
 ## Features
 
    1. **Voice Interactions**   
-      User input is taken by voice commands and response is provide back in speech.
+      User input is taken via voice commands, and responses are provided back in speech.
 
    2. **Weather Information**    
-      Ms Minutes can provide you with current weather information as well.
+      Ms Minutes can provide you with current weather information.
 
    3. **Home Automation**   
       The project demonstrates controlling one solenoid latch from voice commands, using action commands like 'open the lock', 'close the lock' etc.
