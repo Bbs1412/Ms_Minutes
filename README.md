@@ -82,7 +82,10 @@ This repository contains the python source code and requirements for the project
    
 ## Contributions  
 
-   Any contributions or suggestions are welcome! 
+   Any contributions to this repo or suggestions are welcome! 
+
+## License
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-brightgreen)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ### Contact
 
