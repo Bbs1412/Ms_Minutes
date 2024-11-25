@@ -29,7 +29,8 @@ This repository contains the python source code and requirements for the project
   - [Links](#links)
   - [Team-mates](#team-mates)
   - [Contributions](#contributions)
-    - [Contact](#contact)
+  - [License](#license)
+  - [Contact](#contact)
 
 
 ## Features
@@ -85,9 +86,10 @@ This repository contains the python source code and requirements for the project
    Any contributions to this repo or suggestions are welcome! 
 
 ## License
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-brightgreen)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-brightgreen)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-### Contact
+
+## Contact
 
    - **Email** - [bhushanbsongire@gmail.com](bhushanbsongire@gmail.com)
    - **LinkedIn** - [/bhushan-songire](https://www.linkedin.com/in/bhushan-songire/)
