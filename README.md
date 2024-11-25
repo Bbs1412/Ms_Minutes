@@ -1,7 +1,7 @@
 # `Miss Minutes` Autonomous Voice Assistant and Smart Home Integration
 
 &nbsp; &nbsp; &nbsp;
-This repository contains the python source code and requirements for the project <u>Miss Minutes</u> created under subject  MPMC <i>(Micro-processors and Micro-controllers)</i>.
+This repository contains the python source code and requirements for the project <u>Miss Minutes</u> created under subject MPMC *(Micro-processors and Micro-controllers)*.
 
 ## Description
 <img align="right" src="./assets/Ms_Minutes.jpg" height=400>  
@@ -86,7 +86,7 @@ This repository contains the python source code and requirements for the project
    Any contributions to this repo or suggestions are welcome! 
 
 ## License
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-brightgreen)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License][shield]][link]
 
 
 ## Contact
@@ -97,3 +97,16 @@ This repository contains the python source code and requirements for the project
 
 <!-- ## Acknowledgments -->
    <!-- - Thanks to .. for ... -->
+
+<!-- Others -->
+<!--
+[shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-brightgreen
+
+[link]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+-->
+
+<!-- 
+-->
+[shield]: https://img.shields.io/badge/License-GNU%20--%20GPL%20v3.0-blue.svg
+
+[link]: https://www.gnu.org/licenses/gpl-3.0
