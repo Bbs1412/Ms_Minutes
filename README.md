@@ -70,8 +70,8 @@ This repository contains the python source code and requirements for the project
     ```
 
 1. Video demonstration of project:
-   [Redirect to LinkedIn](https://www.linkedin.com/posts/bhushan-songire_voiceassistant-raspberrypi-techprojects-activity-7142895488197951490-R7Kh?utm_source=share&utm_medium=member_desktop) 
-  
+   + [Redirect to LinkedIn](https://www.linkedin.com/posts/bhushan-songire_voiceassistant-raspberrypi-techprojects-activity-7142895488197951490-R7Kh?utm_source=share&utm_medium=member_desktop) 
+   + [![Youtube](https://img.shields.io/badge/Youtube-Video_Link-red?style=flat&logo=youtube&logoColor=red)](https://youtu.be/W313Yns3cZo)
 
 ## Team-mates 
 
